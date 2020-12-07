@@ -199,7 +199,7 @@ namespace TrackerUI
             this.deleteSelectedPrizeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.deleteSelectedPrizeButton.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.deleteSelectedPrizeButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
-            this.deleteSelectedPrizeButton.Location = new System.Drawing.Point(842, 427);
+            this.deleteSelectedPrizeButton.Location = new System.Drawing.Point(842, 428);
             this.deleteSelectedPrizeButton.Name = "deleteSelectedPrizeButton";
             this.deleteSelectedPrizeButton.Size = new System.Drawing.Size(149, 101);
             this.deleteSelectedPrizeButton.TabIndex = 23;
