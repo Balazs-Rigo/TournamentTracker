@@ -13,3 +13,7 @@ I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerU
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.dll
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.pdb
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.genruntimeconfig.cache
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreatePrizeForm.resources
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTeamForm.resources
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTournamentForm.resources
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashboardForm.resources
