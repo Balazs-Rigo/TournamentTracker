@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "TrackerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TrackerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrackerLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TrackerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TrackerLibrary/TrackerLibrary.csproj",
+      "msbuildProject": "../TrackerLibrary/TrackerLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "TrackerLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Mackosajt\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "I:\\IT\\Coding\\gitHubRepo\\IamTimCorey\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+              "projectPath": "I:\\IT\\Coding\\gitHubRepo\\IamTimCorey\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -63,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

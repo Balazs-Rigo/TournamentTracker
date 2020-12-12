@@ -17,3 +17,6 @@ I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerU
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTeamForm.resources
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTournamentForm.resources
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashboardForm.resources
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CopyComplete
