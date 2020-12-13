@@ -1,9 +1,9 @@
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
-I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CoreCompileInputs.cache
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.dll
 I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.pdb
+I:\IT\Coding\gitHubRepo\IamTimCorey\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
