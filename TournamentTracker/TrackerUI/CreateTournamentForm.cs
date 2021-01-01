@@ -115,7 +115,6 @@ namespace TrackerUI
                 WireUpLists();
             }
         }
-
         private void createTournamentButton_Click(object sender, EventArgs e)
         {
             decimal fee = 0;
