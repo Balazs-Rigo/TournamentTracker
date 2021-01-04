@@ -196,7 +196,7 @@ namespace TrackerLibrary.DataAccess.TextHelpers
         private static MatchupModel LookupMatchupById(int id)
         {
             List<MatchupModel> matchups = GlobalConfig.MatchupFile.FullFilePath().LoadFile().ConvertToMatchupModels();
-            return null;
+
             return matchups.Where(x=> x.Id == id).First();
         }
 
@@ -280,7 +280,8 @@ namespace TrackerLibrary.DataAccess.TextHelpers
                 {
                     teamCompeting = e.TeamCompeting.Id.ToString();
                 }
-                lines.Add($"{e.Id},{TeamCompeting.},{e.Score},{parent}");
+
+                lines.Add($"{e.Id},{teamCompeting},{e.Score},{parent}");
             }
 
             File.WriteAllLines(GlobalConfig.MatchupEntryFile.FullFilePath(),lines);
