@@ -10,4 +10,10 @@ namespace TrackerLibrary
         TextFile
     }
 
+    public enum GitBranchTesting
+    {
+        Testing01,
+        Testing02
+    }
+
 }
