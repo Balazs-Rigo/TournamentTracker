@@ -16,4 +16,10 @@ namespace TrackerLibrary
         Testing02
     }
 
+    public enum GitBranchTesting2NotCommittedNotStashed
+    {
+        Testing01,
+        Testing02
+    }
+
 }
