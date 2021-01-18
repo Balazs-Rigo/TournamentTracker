@@ -25,7 +25,8 @@ namespace TrackerLibrary
     public enum GitCommitFullNameChangedToBalazsRigoCheckGitHistory
     {
         Balazs,
-        Rigo
+        Rigo,
+        OneMoreTime
     }
 
 }
