@@ -22,4 +22,10 @@ namespace TrackerLibrary
         Testing02
     }
 
+    public enum GitCommitFullNameChangedToBalazsRigoCheckGitHistory
+    {
+        Balazs,
+        Rigo
+    }
+
 }
