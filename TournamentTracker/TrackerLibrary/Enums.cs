@@ -29,4 +29,10 @@ namespace TrackerLibrary
         OneMoreTime
     }
 
+    public enum TesintNameChangingBalazsRigo
+    {
+        Balazs,
+        Rigo
+    }
+
 }
